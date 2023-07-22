@@ -31,7 +31,7 @@ Getting Started
 
 Clone the repository:
 
-git clone https://github.com/your_username/SeleniumTestNG.git
+git clone https://github.com/Kbuyukkol/SeleniumTestNG.git
 
 Navigate to the project directory:
 
